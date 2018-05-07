@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SimpleSpinner</string>
+
+
+    <!--  for static data -->
+    <string-array name="countryData">
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>America</item>
+        <item>Canada</item>
+    </string-array>
+
+</resources>
